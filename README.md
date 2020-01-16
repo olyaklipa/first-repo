@@ -1,30 +1,33 @@
-# This is a large heading
+# Olga Klipa
 
-## This is a smaller heading
+## Personal information
+Date of birth **22.09.1989**
+Place of Birth **Kyiv, Ukraine**
+Nationality **Ukraine**
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
 
-- This is
-- an unordered
-- list
+## Education
 
-1. This is
-2. an ordered
-3. list
+- **2014 - 2018** PhD in Life Science, University of Lausanne
+- **2010 - 2012** Master in biology, National University of Kyiv
+- **2006 - 2010** Bachelor in biology, National University of Kyiv
+- **1996 - 2006** primary, secondary and high school#169 of Kyiv
 
-Here is `some code` in the middle of a sentence.
+## Programming skills and courses
 
-```
-This is
-a block
-of code
-```
+- *R* - basic level; course from Swiss Institute of Bioinformatics
+- *Python* - beginner level; coursera course *"Learn to Program: The Fundamentals"*
+- *Python* - beginner level; course from Cardiff University *"Python Programming"*
+- *UNIX (bash terminal)* user - coursera course *"The UNIX Workbench*
+- *Java* - beginner level; course from Cardiff University *"Java I"*  
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## Languages
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Ukrainian (native)
+2. Russian (native)
+3. English (fluent)
+4. French (basic)
 
-nano README.md
+
+Here is where I study programming  [a link](https://www.coursera.org/).
+
