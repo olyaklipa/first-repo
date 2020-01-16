@@ -31,4 +31,3 @@ Nationality **Ukraine**
 
 Here is where I study programming  [a link](https://www.coursera.org/).
 
-nano README.md
